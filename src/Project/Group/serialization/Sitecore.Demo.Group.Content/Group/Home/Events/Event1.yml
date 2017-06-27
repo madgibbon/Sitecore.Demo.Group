@@ -1,0 +1,33 @@
+﻿---
+ID: "ede19b61-6e7d-4160-8a19-bbbd02235fcd"
+Parent: "1e7362b9-3939-469e-bff1-35c0c711246f"
+Template: "f9bde86c-7a62-44b9-aaf9-56e87d8302ad"
+Path: /sitecore/content/Group/Home/Events/Event1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e83cef4-936e-43c6-ba2e-ab3af65666ac"
+      Hint: Title
+      Value: Event 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170626T154154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "73c2cd52-eefc-4d2c-a2fb-d44f75b05781"
+      Hint: Description
+      Value: Test event 1
+    - ID: "8c82078b-0418-49cc-9638-c2ecd90f938f"
+      Hint: Date
+      Value: 20170626T040000Z
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Location
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "-34.42730166315868,150.65277099609375"

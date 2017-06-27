@@ -1,8 +1,8 @@
 ﻿---
-ID: "ca0dad46-8b7e-4128-bca7-fbb8d37505d6"
-Parent: "2a0d21cd-8b52-44bf-a8db-3e6b2a1ee208"
-Template: "2a0d21cd-8b52-44bf-a8db-3e6b2a1ee208"
-Path: /sitecore/templates/Project/Group/Page Types/News List/__Standard Values
+ID: "a81d118c-2d67-4d46-9d93-a3cfbd8ece58"
+Parent: "f022b520-e60c-4ba4-86ba-f252bc82239e"
+Template: "f022b520-e60c-4ba4-86ba-f252bc82239e"
+Path: /sitecore/templates/Project/Group/Page Types/Event List/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
@@ -121,6 +121,26 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3900ADC1-26E3-45C2-935C-1BC12D4E228A}">
+              <p:d />
+            </r>
+            <r
+              uid="{302A837B-0DBC-4CF8-BB90-B79567226C03}"
+              p:after="*[1=2]"
+              s:id="{C2BA93AE-662A-4970-9938-273A3AD4BC6C}"
+              s:ph="col-huge" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20150824T175428Z
